@@ -121,7 +121,7 @@
     "ip": "1.1.5",
     "localforage": "^1.7.3",
     "lodash": "^4.17.15",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "moment": "^2.25.2",
     "polished": "1.9.2",
     "prop-types": "15.6.1",
