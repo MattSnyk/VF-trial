@@ -122,7 +122,7 @@
     "localforage": "^1.7.3",
     "lodash": "^4.17.15",
     "minimist": "1.2.0",
-    "moment": "^2.25.2",
+    "moment": "^2.29.2",
     "polished": "1.9.2",
     "prop-types": "15.6.1",
     "rc-tooltip": "3.7.2",
