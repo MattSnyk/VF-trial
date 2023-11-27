@@ -103,7 +103,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.4.3",
-    "@toast-ui/react-editor": "^1.0.0",
+    "@toast-ui/react-editor": "^2.0.0",
     "bootstrap-css-only": "4.0.0",
     "chalk": "2.4.1",
     "compression": "1.7.2",
@@ -133,7 +133,7 @@
     "react-datepicker": "1.4.1",
     "react-dom": "^16.8.6",
     "react-dropzone": "4.2.9",
-    "react-helmet": "6.0.0-beta",
+    "react-helmet": "6.0.0",
     "react-highlight-words": "^0.14.0",
     "react-icons": "2.2.7",
     "react-intl": "2.4.0",
@@ -156,7 +156,7 @@
     "styled-components": "3.3.2",
     "superagent": "3.8.2",
     "uuid": "^3.3.3",
-    "victory": "^35.4.11",
+    "victory": "^36.0.0",
     "whatwg-fetch": "2.0.4"
   },
   "devDependencies": {
