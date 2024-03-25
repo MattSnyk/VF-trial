@@ -103,7 +103,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.4.3",
-    "@toast-ui/react-editor": "^1.0.0",
+    "@toast-ui/react-editor": "^2.0.0",
     "bootstrap-css-only": "4.0.0",
     "chalk": "2.4.1",
     "compression": "1.7.2",
